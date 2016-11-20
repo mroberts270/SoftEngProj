@@ -1,0 +1,7 @@
+C:\Users\Morgan\Documents\College\2016Fall\SoftEng\Project\Code\MedSchedSys\MedSchedSys\bin\Debug\MedSchedSys.exe
+C:\Users\Morgan\Documents\College\2016Fall\SoftEng\Project\Code\MedSchedSys\MedSchedSys\bin\Debug\MedSchedSys.pdb
+C:\Users\Morgan\Documents\College\2016Fall\SoftEng\Project\Code\MedSchedSys\MedSchedSys\obj\x86\Debug\MedSchedSys.Form1.resources
+C:\Users\Morgan\Documents\College\2016Fall\SoftEng\Project\Code\MedSchedSys\MedSchedSys\obj\x86\Debug\MedSchedSys.Properties.Resources.resources
+C:\Users\Morgan\Documents\College\2016Fall\SoftEng\Project\Code\MedSchedSys\MedSchedSys\obj\x86\Debug\MedSchedSys.csproj.GenerateResource.Cache
+C:\Users\Morgan\Documents\College\2016Fall\SoftEng\Project\Code\MedSchedSys\MedSchedSys\obj\x86\Debug\MedSchedSys.exe
+C:\Users\Morgan\Documents\College\2016Fall\SoftEng\Project\Code\MedSchedSys\MedSchedSys\obj\x86\Debug\MedSchedSys.pdb
